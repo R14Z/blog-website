@@ -1,0 +1,85 @@
+* {
+    overflow-x: hidden;
+    overflow-y: hidden;
+
+}
+
+header {
+    background-color: purple;
+}
+
+header h1 { 
+    /* Vibrant purple header */
+    background-color: purple;
+    text-align: center;
+    padding-bottom: 0rem;
+    color: white;
+}
+
+#lihome, #liabout, #licontact {
+    position: relative;
+    left: 48%;
+    background-color: purple;
+    padding: 1em 0;
+    color: white;
+}
+
+ul {
+    list-style-type: none; 
+    /* to get rid of the bullet points */
+    background-color: purple;
+}
+
+h3, p {
+    position: relative;
+    left: 2rem;''
+}
+
+#box1 { 
+    background-color: white;
+    position: relative;
+    top: 10px;
+    left: 30px;    
+}
+
+#box2 {
+    background-color: white;
+    padding-top: 4rem;    
+}
+
+#box3 { 
+    background-color: white;
+    padding-top: 3rem;
+}
+
+#line1 {
+    position: relative;
+    top: 4rem;
+}
+
+#line2 {
+    position: relative;
+    top: 2rem;
+}
+
+
+#move {
+    position: relative;
+    top: 10px;
+}
+
+
+footer { 
+    background-color: #6a1b9a; /* Matching the header's vibrant purple */
+    color: black;
+    text-align: center;
+    padding: 10rem;
+}
+
+#foot {
+
+    background-color: #6a1b9a; /* Matching the header's vibrant purple */
+    color: black;
+    text-align: center;
+    padding: 1em 0;
+}
